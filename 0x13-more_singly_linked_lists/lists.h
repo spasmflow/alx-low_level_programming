@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@spasmflow 
-MelissaN
-/
-holbertonschool-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-holbertonschool-low_level_programming/0x12-more_singly_linked_lists/lists.h
-
-MelissaN add more function prototypes
-Latest commit 60dd197 on Mar 7, 2018
- History
- 0 contributors
-38 lines (34 sloc)  1.09 KB
-
 #ifndef LISTS_H
 #define LISTS_H
 
@@ -64,18 +36,3 @@ size_t print_listint_safe(const listint_t *head);
 listint_t *find_listint_loop(listint_t *head);
 
 #endif
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-You have no unread notifications
