@@ -6,6 +6,7 @@
  *
  * Return: Number of nodes freed from the list
  */
+
 size_t free_listint_safe(listint_t **h)
 {
 	listint_t *tmpCur;
